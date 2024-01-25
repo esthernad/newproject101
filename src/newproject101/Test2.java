@@ -6,6 +6,7 @@ public class Test2 {
 		x=5; y=6;
 		int sum = x+y;
 		System.out.println(sum);
+		System.out.prinln("hello);
 
 		//added a new line
 		
